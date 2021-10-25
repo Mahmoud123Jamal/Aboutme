@@ -5,6 +5,7 @@
 - 📫 How to reach me 
 WhatsApp : 01098836658
 facebook : https://www.facebook.com/mahmoud.ghoraba.90/
+LinkedIn : www.linkedin.com/in/mahmoud-ghoraba-745811222
 <!---
 Mahmoud123Jamal/Mahmoud123Jamal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
