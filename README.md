@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahmoud123Jamal
-- 👀 I’m interested in programming and sotware engineering development , football , Read the verdict and the sayings .
+- 👀 I’m interested in programming and software engineering development , football , Read the verdict and the sayings .
 - 🌱 I’m currently learning Computer Science .
 - 💞️ I’m looking to collaborate on helping each other to spread our science
 - 📫 How to reach me 
